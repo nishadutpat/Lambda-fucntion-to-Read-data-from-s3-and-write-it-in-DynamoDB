@@ -1,0 +1,1 @@
+# Lambda-fucntion-to-Read-data-from-s3-and-write-it-in-DynamoDB
